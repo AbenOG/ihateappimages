@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=AppImage Installer
+GenericName=AppImage Installer
+Exec=appimage-installer %U
+Terminal=false
+Type=Application
+Icon=system-software-install
+Comment=Install AppImages as system applications
+Categories=Utility;System;
+MimeType=application/vnd.appimage;application/x-iso9660-appimage;
